@@ -69,7 +69,7 @@ a:hover {
 }
 
 #nav .menu-items {
-	height: 32px;
+	min-height: 32px;
 }
 
 #nav .menu-items li {
